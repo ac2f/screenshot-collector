@@ -1,0 +1,1 @@
+.\ncc dist\index.js
