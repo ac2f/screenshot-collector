@@ -1,0 +1,5 @@
+websocket-client
+rel
+pyautogui
+colorama
+pyinstaller
